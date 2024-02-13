@@ -1,6 +1,5 @@
-# PromptEnsembling
+# GenAI PromptEnsembling
 
-Creating optimized prompt ensembles using dspy
 [dspy_starter.ipynb](Notebooks/dspy_starter.ipynb) contains examples for QA, Chain of Thought Reasoning, RAG, MultiHop CoT and MultiHop CoT with RAG. The models used are gpt-3.5-turbo as language model and colbertv2 as retreival model
 
 [OpenAi_starter.ipynb](Notebooks/OpenAi_starter.ipynb) contains examples of OpenAi API access for Text Genreation, Text Generation with expect output formatting e.g. JSON and embedding extraction. The models used are: gpt-3.5 and gpt-4
